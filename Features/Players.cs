@@ -132,7 +132,7 @@ namespace EFT.Trainer.Features
 						continue;
 
 					material.shader = shader;
-
+					material.SetInt("_ZTest", 2); //2 = 'Less' - Comment out this line to allow Shader to render regardless of visibility
 					material.SetColor("_FirstOutlineColor", borderColor);
 					material.SetFloat("_FirstOutlineWidth", 0.02f);
 					material.SetColor("_SecondOutlineColor", color);
