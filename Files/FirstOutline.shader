@@ -42,7 +42,7 @@ Shader "Outlined/UltimateOutline"
 				Tags{ "Queue" = "Transparent" "IgnoreProjector" = "True" "RenderType" = "Transparent" }
 				Blend SrcAlpha OneMinusSrcAlpha
 				ZWrite Off
-				ZTest Always
+				ZTest Less //Use 'Less' to render the shader on only the visible parts of players - Use 'Always' to render the shader on players regardless of visibility
 				Cull Back
 				CGPROGRAM
 
@@ -86,7 +86,7 @@ Pass{
 	Tags{ "Queue" = "Transparent" "IgnoreProjector" = "True" "RenderType" = "Transparent" }
 	Blend SrcAlpha OneMinusSrcAlpha
 	ZWrite Off
-	ZTest Always
+	ZTest Less //Use 'Less' to render the shader on only the visible parts of players - Use 'Always' to render the shader on players regardless of visibility
 	Cull Back
 	CGPROGRAM
 
