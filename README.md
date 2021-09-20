@@ -1,6 +1,6 @@
 # BillyBishop's EscapeFromTarkov-Trainer Fork
 
-These sources are intended to be specifically tailored to legitimate gameplay focusing on accessibility.
+This fork project is specifically tailored to legitimate gameplay, focusing on accessibility for the user.
 Only the most latest and stable version of _SPT-AKI_ should be supported.
 
 
