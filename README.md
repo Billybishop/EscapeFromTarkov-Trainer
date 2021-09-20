@@ -1,7 +1,7 @@
 # BillyBishop's EscapeFromTarkov-Trainer Fork
-
-* This fork is specifically tailored to legitimate gameplay, focusing on accessibility for the user.
-* Only the latest *TWO* stable versions of <ins>_SPT-AKI_</ins> should be supported.
+* *This fork is specifically tailored to legitimate gameplay, focusing on accessibility for the user.*
+* *Only the latest __TWO__ stable versions of <ins>_SPT-AKI_</ins> should be supported.*
+* *Not recommended for use in Multiplayer servers.*
 
 
 ## EscapeFromTarkov-Trainer
