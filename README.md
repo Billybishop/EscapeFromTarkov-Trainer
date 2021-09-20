@@ -1,7 +1,6 @@
 # BillyBishop's EscapeFromTarkov-Trainer Fork
 * This fork is specifically tailored to 'legitimate' gameplay, focusing on accessibility for the user.
-* Only plan on supporting the current stable SPT-AKI build, and the one before it.
-* NOT recommended for use in Live EFT or emu Multiplayer servers.
+* Only plan on supporting the current stable SPT-AKI build.
 
 
 ## EscapeFromTarkov-Trainer
