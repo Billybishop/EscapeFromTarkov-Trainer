@@ -1,5 +1,10 @@
+# BillyBishop's EscapeFromTarkov-Trainer Fork
 
-# EscapeFromTarkov-Trainer
+These sources are intended to be specifically tailored to legitimate gameplay focusing on accessibility.
+Only the most latest and stable version of _SPT-AKI_ should be supported.
+
+
+## EscapeFromTarkov-Trainer
 
 *I'm not responsible for any consequences that result from using this code. BattleState / BattlEye will ban you if you try to use it 'live'.*
 
