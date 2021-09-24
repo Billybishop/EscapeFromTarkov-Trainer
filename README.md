@@ -1,3 +1,6 @@
+# OUTDATED
+* This is an outdated fork with many personal changes missing, as well as it is based on a branch of EFT-Trainer that is meant for older builds of EFT.
+
 # BillyBishop's EscapeFromTarkov-Trainer Fork
 * This fork is specifically tailored to 'legitimate' gameplay, focusing on accessibility for the user.
 * Only plan on supporting the current stable SPT-AKI build.
